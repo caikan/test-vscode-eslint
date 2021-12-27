@@ -1,0 +1,25 @@
+{
+  "name": "test-vscode-eslint",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "eslint-plugin-vue": "^8.2.0",
+    "eslint": "^8.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caikan/test-vscode-eslint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caikan/test-vscode-eslint/issues"
+  },
+  "homepage": "https://github.com/caikan/test-vscode-eslint#readme"
+}
